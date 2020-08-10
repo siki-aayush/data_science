@@ -161,3 +161,4 @@ dmypy.json
 
 # data files
 big__data/
+tensor_flow/
