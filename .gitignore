@@ -165,3 +165,8 @@ tensor_flow/
 
 #research files
 research_papers
+
+spaceInvader
+gym-results
+.vim
+
